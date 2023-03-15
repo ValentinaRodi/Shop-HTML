@@ -1,6 +1,4 @@
 # Интернет-магазин мебели
-Cсылка https://shopinterior.000webhostapp.com/index.html
-
 Верстка
 
 Использован препроцессор SCSS. 
